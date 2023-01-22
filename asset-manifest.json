@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videobg-lp/static/css/main.b8291d40.css",
+    "main.js": "/videobg-lp/static/js/main.07d72375.js",
+    "index.html": "/videobg-lp/index.html",
+    "main.b8291d40.css.map": "/videobg-lp/static/css/main.b8291d40.css.map",
+    "main.07d72375.js.map": "/videobg-lp/static/js/main.07d72375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8291d40.css",
+    "static/js/main.07d72375.js"
+  ]
+}
