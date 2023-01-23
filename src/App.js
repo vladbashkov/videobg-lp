@@ -28,11 +28,31 @@ function App() {
           height={ '100vh' }
         />
         <div className="App-content">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea perferendis asperiores vitae at ullam sequi enim magni eligendi esse alias. Atque consectetur quas dolorum expedita recusandae doloremque quidem, eveniet et.<br/>
-          Suscipit eum earum ut accusantium numquam. Dignissimos iusto ducimus at cumque qui odit dolore ullam eius inventore tempora eveniet omnis error sint, rem incidunt ipsa harum aut nesciunt quasi nihil?<br/>
-          Architecto, neque qui id quod accusamus natus officiis a reiciendis quasi saepe nemo rem ratione inventore, velit quae eligendi et magnam, sed dolores repellat quas officia voluptates. Corporis, facilis quaerat?<br/>
-          Accusamus ad beatae ut rem neque vero quaerat asperiores perspiciatis nobis! Esse, dolores consectetur illo beatae tempore quo dolore libero, inventore recusandae nam fuga laborum iste incidunt, ipsam sit facere!<br/>
-          Esse provident laboriosam aliquam numquam ab perspiciatis. Voluptatem temporibus nisi deserunt aliquid dignissimos cupiditate natus atque? Excepturi, deleniti? Consequatur porro veritatis molestiae fugiat reprehenderit magnam velit in aliquid error sint?<br/>
+          <p
+            className='App-paragraph'
+          >
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus inventore, eum, repudiandae laudantium rem assumenda officiis, exercitationem aperiam voluptatum soluta neque optio quod sunt libero voluptates corporis consectetur tenetur quae?
+          </p>
+          <p
+            className='App-paragraph'
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, sequi pariatur nulla suscipit quo sed? In, quisquam magni autem excepturi natus id porro quod. Sint rem possimus dicta architecto! Distinctio.
+          </p>
+          <p
+            className='App-paragraph hide'
+          >
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum voluptates quibusdam in aspernatur veritatis, deserunt ullam voluptatem culpa ad ab laudantium reprehenderit id facere. Quas qui quasi libero facere voluptas?
+          </p>
+          <p
+            className='App-paragraph hide'
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora laboriosam sint soluta cupiditate totam eum temporibus facilis excepturi ex omnis qui officia asperiores aliquam quibusdam maiores quis dolorem, distinctio rem.
+          </p>
+          <p
+            className='App-paragraph hide'
+          >
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam officiis harum delectus ea quaerat sapiente non asperiores dicta eius consectetur cumque inventore debitis, ex expedita beatae omnis, qui exercitationem pariatur.
+          </p>
         </div>
       </main>
     </div>
